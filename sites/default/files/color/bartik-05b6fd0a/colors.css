@@ -22,31 +22,31 @@ body.overlay {
   border-bottom: 1px solid #ffffff;
 }
 #header {
-  background-color: #cf3535;
-  background-image: -moz-linear-gradient(top, #0e0004 0%, #cf3535 100%);
-  background-image: -ms-linear-gradient(top, #0e0004 0%, #cf3535 100%);
-  background-image: -o-linear-gradient(top, #0e0004 0%, #cf3535 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #0e0004), color-stop(1, #cf3535));
-  background-image: -webkit-linear-gradient(top, #0e0004 0%, #cf3535 100%);
-  background-image: linear-gradient(top, #0e0004 0%, #cf3535 100%);
+  background-color: #4e4e4e;
+  background-image: -moz-linear-gradient(top, #1a1c22 0%, #4e4e4e 100%);
+  background-image: -ms-linear-gradient(top, #1a1c22 0%, #4e4e4e 100%);
+  background-image: -o-linear-gradient(top, #1a1c22 0%, #4e4e4e 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #1a1c22), color-stop(1, #4e4e4e));
+  background-image: -webkit-linear-gradient(top, #1a1c22 0%, #4e4e4e 100%);
+  background-image: linear-gradient(top, #1a1c22 0%, #4e4e4e 100%);
 }
 a {
-  color: #d61111;
+  color: #0072b6;
 }
 a:hover,
 a:focus {
-  color: #ff0f0f;
+  color: #0090e4;
 }
 a:active {
-  color: #ff4545;
+  color: #24aeff;
 }
 .sidebar .block {
-  background-color: #f1f4f0;
-  border-color: #ededed;
+  background-color: #ffffff;
+  border-color: #d0d0d0;
 }
 #page-wrapper,
 #footer-wrapper {
-  background: #1f1d1c;
+  background: #161617;
 }
 .region-header,
 .region-header a,
@@ -54,5 +54,5 @@ a:active {
 #name-and-slogan,
 #name-and-slogan a,
 #secondary-menu-links li a {
-  color: #fffeff;
+  color: #cd0909;
 }
